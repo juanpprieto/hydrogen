@@ -48,6 +48,7 @@ and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - fix: fix bug where search param is not being pass along during RSC streaming call [#623](https://github.com/Shopify/hydrogen/pull/623)
 - feat: expect collection seo by default
 - fix: Clear browser fetch cache by @wizardlyhel in #591
+- fix: target future release to use '2022-01' API Version
 
 ## 0.10.1 - 2022-01-26
 
